@@ -1,4 +1,4 @@
-# -AI-CEO-Startup-Investment-Decision-Predictor
+# AI-CEO-Startup-Investment-Decision-Predictor
 
 🎯 Objective:
 To build an intelligent machine learning system that acts as an *AI CEO*, automatically deciding whether to invest in a startup based on:
